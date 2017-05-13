@@ -1,0 +1,11 @@
+body {
+  background-color: #4286f4;
+  color: white; }
+
+.aligner {
+  display: flex;
+  margin: 60px;
+  justify-content: center; }
+
+.aligner-item {
+  font-size: 15rem; }
